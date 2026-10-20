@@ -2,14 +2,14 @@
 
 > **Confidential · Draft for review.** For the people this repo is shared with. Please don't forward, re-post or reuse it.
 
-The revised Design + Innovation plan that Tyler Meyr will present to Anthony Johnson and Michael Fassnacht, shared with Skylar Heaton and Howard Karesh for review. This version is from October 16, 2026.
+The revised Design + Innovation plan that Tyler Meyr will present to Anthony Johnson and Michael Fassnacht, shared with Skylar Heaton and Howard Karesh for review. This version is from October 19, 2026.
 
 ## What's here
 
 | File | What it is |
 | --- | --- |
-| [`LJC-Design-Innovation_Revised-Plan_DRAFT.html`](LJC-Design-Innovation_Revised-Plan_DRAFT.html) | The 13-slide presentation. One self-contained file (about 12 MB) with its images, video and scripts built in. |
-| [`LJC-Design-Innovation_Revised-Plan_Run-sheet_DRAFT.html`](LJC-Design-Innovation_Revised-Plan_Run-sheet_DRAFT.html) | Tyler's run sheet: what to say, when to click and how long each slide takes (about 11½ minutes). |
+| [`LJC-Design-Innovation_Revised-Plan_DRAFT.html`](LJC-Design-Innovation_Revised-Plan_DRAFT.html) | The 14-slide presentation. One self-contained file (about 12 MB) with its images, video and scripts built in. |
+| [`LJC-Design-Innovation_Revised-Plan_Run-sheet_DRAFT.html`](LJC-Design-Innovation_Revised-Plan_Run-sheet_DRAFT.html) | Tyler's run sheet. It matches the October 16 version and is being updated for this one. |
 
 ## How to view
 
@@ -23,7 +23,7 @@ The files need the internet only for fonts. Offline, they fall back to system fo
 
 ## About the video on slide 5
 
-Slide 5 includes a 2-minute mockup of Tyler's monthly note. **The voice is AI-generated:** a clone of Tyler's voice, made with his approval for this mockup. Tyler did not record it, and the words are a sample script written by the team. It is labelled "AI mockup · voice" on screen. Please don't extract or share the clip on its own.
+The internal communications slide includes a 2-minute mockup of Tyler's monthly note. **The voice is AI-generated:** a clone of Tyler's voice, made with his approval for this mockup. Tyler did not record it, and the words are a sample script written by the team. It is labelled "AI mockup · voice" on screen. Please don't extract or share the clip on its own.
 
 ## Still open
 
