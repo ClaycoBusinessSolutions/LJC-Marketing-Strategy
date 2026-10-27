@@ -1,2 +1,3 @@
-# The deck is one 12 MB self-contained file (base64 media): no text diffs or line-ending conversion.
+# The decks are self-contained files (base64 media, many MB): no text diffs or line-ending conversion.
 LJC-Design-Innovation_Revised-Plan_DRAFT.html binary
+LJC-Design-Templates_Q4-2026-Plan_DRAFT.html binary

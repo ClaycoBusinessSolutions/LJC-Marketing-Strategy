@@ -1,8 +1,11 @@
 # Allowlist: only the reviewed deliverables and repo docs. Source files, recordings, notes and assets
-# from the project folder stay out of this repo.
+# from the project folder stay out of this repo. The hub (index.html) is built from the team's project
+# files; its source stays there too.
 *
 !.gitignore
 !.gitattributes
 !README.md
+!index.html
 !LJC-Design-Innovation_Revised-Plan_DRAFT.html
 !LJC-Design-Innovation_Revised-Plan_Run-sheet_DRAFT.html
+!LJC-Design-Templates_Q4-2026-Plan_DRAFT.html
