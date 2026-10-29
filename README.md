@@ -11,7 +11,7 @@ The hub starts with the marketing plan for 2027, then shows the plan's timeline.
 | File | What it is |
 | --- | --- |
 | [`index.html`](index.html) | The hub: the plan, the timeline and every deck. |
-| [`LJC-Design-Innovation_Revised-Plan_DRAFT.html`](LJC-Design-Innovation_Revised-Plan_DRAFT.html) | **Marketing plan for 2027.** Tyler Meyr, October 21, 2026. 15 slides. One self-contained file (about 14 MB) with its images, video and scripts built in. |
+| [`LJC-Design-Innovation_Revised-Plan_DRAFT.html`](LJC-Design-Innovation_Revised-Plan_DRAFT.html) | **Marketing plan for 2027.** Tyler Meyr. Updated October 29, 2026: it now opens with our foundation (mission, vision, five pillars and promise, from the LJC State of the Firm), then who we serve, how we stand apart and how we'll know it works. 22 slides. One self-contained file (about 14.5 MB) with its images, video and scripts built in. |
 | [`LJC-Design-Templates_Q4-2026-Plan_DRAFT.html`](LJC-Design-Templates_Q4-2026-Plan_DRAFT.html) | **Design templates: the Q4 plan.** October 26, 2026. 14 slides, plus 29 in the appendix. On the timeline under Q4 2026 › Marketing foundation › Design templates. |
 | [`LJC-Design-Innovation_Revised-Plan_Run-sheet_DRAFT.html`](LJC-Design-Innovation_Revised-Plan_Run-sheet_DRAFT.html) | Tyler's run sheet. It matches the October 16 version of the plan and is being updated. |
 
